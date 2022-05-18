@@ -1,1 +1,60 @@
+Quick fix notes 10/05/2022: 
 
+- Mecânicos corrigidos e nova oficina na cidade adicionada 
+-  OOC chat desligado
+-  Marcadores do mapa adicionados
+-  Sistema de faturação corrigido
+-  Trabalhos Corrigidos 
+-  Items de trabalhos adicionados a Youtool e a Loja de Pesca
+-  Lockpick de veículos adicionada
+-  Sistema dispatch alterado
+-  Corrigido Sistema de tempo que estava freeze as 13:00 
+
+Hotfix apos rr de dia 11/05/2022 as 04:00 AM 
+
+- Slots desbugadas estamos a levar cap nas 32 apos isso alguem crasha  
+
+Quick Patch 12/05/2022 
+- Possível fix ao sistema de combustível
+- Sistema de sirenes otimizado ( estava muito pesado )
+- Varias otimizações server side
+- Sistema de lockpicks adicionado 
+- Sistema de chaves adicionado e funcional ( alteração de keybind definida nas opções do fivem keybind default F10)
+
+Quick Patch 15/05/2022
+- /carregar adicionado e fix
+- Preço dos reboques baixado
+- Trabalhos adicionados
+- Criado sistema de heists sequenciais (USB Encriptadas + Telemóveis Descartáveis)
+- Adicionado notas como rewards dos heists
+- Adicionado diversos items novos
+- Lojas atualizadas
+- Peds adicionados pela cidade
+- O Negrão é lindo e narcisista
+
+Patch 1 17/05/2022 
+- Hospital antigo removido 
+- Novo Hospital Adicionado
+- Radio atualizado
+- Binários atualizados
+- Sistema de drogas atualizado
+- Sistema de trabalhos atualizado 
+- Sistema reboques atualizado
+- Livrarias Atualizadas
+- Inventario atualizado
+- Novo Menu de emotes /emotes
+- Fixes telemóvel
+- Updates anticheat e jobs 
+- Novos trabalhos sem wl em teste ( 4 novos mais em preparação )
+- Otimizações server side
+- Fix handling carros
+- Gasolina ajustada nos veículos
+- Pesos de alguns items ajustados e possibilidade de dar stack
+- Novos items adicionados as lojas ilegais ( ninguém as descobriu ainda )
+- Fix logs heists
+- Ajuste de Probabilidades drops assaltos
+- Novas imagens para items 
+- Acessórios de armas fixed ( skins de armas introduzidas e diversos acessórios para as mesmas (equipáveis) )
+
+Hotfix 18/05/2022
+- Corrigido crash dos players
