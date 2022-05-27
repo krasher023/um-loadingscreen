@@ -1,36 +1,17 @@
-Quick fix notes 10/05/2022: 
+Setup para Patch 2 27-05-2022
 
-- Mecânicos corrigidos e nova oficina na cidade adicionada 
--  OOC chat desligado
--  Marcadores do mapa adicionados
--  Sistema de faturação corrigido
--  Trabalhos Corrigidos 
--  Items de trabalhos adicionados a Youtool e a Loja de Pesca
--  Lockpick de veículos adicionada
--  Sistema dispatch alterado
--  Corrigido Sistema de tempo que estava freeze as 13:00 
+- Preparação de toda a base para levar o Patch 2 que será introduzido dia 29-05 (O servidor será fechado apartir das 22:00 e será informada no discord a hora de abertura!!);
+- Preparação de update de QOL que será introduzido no Patch 2 ;
+- Preparação para update de verão ;
 
-Hotfix apos rr de dia 11/05/2022 as 04:00 AM 
+Notas:
+- O resto do changelog não está aqui presente mas podem visualizar o mesmo no discord na sala #githubupdates tem sido feitos updates diarios ao servidor se encontrarem algum problema por favor abram ticket na respetiva categoria.
 
-- Slots desbugadas estamos a levar cap nas 32 apos isso alguem crasha  
 
-Quick Patch 12/05/2022 
-- Possível fix ao sistema de combustível
-- Sistema de sirenes otimizado ( estava muito pesado )
-- Varias otimizações server side
-- Sistema de lockpicks adicionado 
-- Sistema de chaves adicionado e funcional ( alteração de keybind definida nas opções do fivem keybind default F10)
+Hotfix 18/05/2022
+- Corrigido crash dos players
+- LoadingScreen Fix
 
-Quick Patch 15/05/2022
-- /carregar adicionado e fix
-- Preço dos reboques baixado
-- Trabalhos adicionados
-- Criado sistema de heists sequenciais (USB Encriptadas + Telemóveis Descartáveis)
-- Adicionado notas como rewards dos heists
-- Adicionado diversos items novos
-- Lojas atualizadas
-- Peds adicionados pela cidade
-- O Negrão é lindo e narcisista
 
 Patch 1 17/05/2022 
 - Hospital antigo removido 
@@ -56,6 +37,40 @@ Patch 1 17/05/2022
 - Novas imagens para items 
 - Acessórios de armas fixed ( skins de armas introduzidas e diversos acessórios para as mesmas (equipáveis) )
 
-Hotfix 18/05/2022
-- Corrigido crash dos players
-- LoadingScreen Fix
+
+Quick Patch 15/05/2022
+- /carregar adicionado e fix
+- Preço dos reboques baixado
+- Trabalhos adicionados
+- Criado sistema de heists sequenciais (USB Encriptadas + Telemóveis Descartáveis)
+- Adicionado notas como rewards dos heists
+- Adicionado diversos items novos
+- Lojas atualizadas
+- Peds adicionados pela cidade
+- O Negrão é lindo e narcisista
+
+
+Quick Patch 12/05/2022 
+- Possível fix ao sistema de combustível
+- Sistema de sirenes otimizado ( estava muito pesado )
+- Varias otimizações server side
+- Sistema de lockpicks adicionado 
+- Sistema de chaves adicionado e funcional ( alteração de keybind definida nas opções do fivem keybind default F10)
+
+
+Hotfix apos rr de dia 11/05/2022 as 04:00 AM 
+
+- Slots desbugadas estavamos a levar cap nas 32 apos isso alguem crasha  
+
+
+Quick fix notes 10/05/2022: 
+
+- Mecânicos corrigidos e nova oficina na cidade adicionada 
+-  OOC chat desligado
+-  Marcadores do mapa adicionados
+-  Sistema de faturação corrigido
+-  Trabalhos Corrigidos 
+-  Items de trabalhos adicionados a Youtool e a Loja de Pesca
+-  Lockpick de veículos adicionada
+-  Sistema dispatch alterado
+-  Corrigido Sistema de tempo que estava freeze as 13:00 
